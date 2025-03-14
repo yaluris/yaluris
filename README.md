@@ -22,6 +22,9 @@ I’m an Electrical and Computer Engineering student at the Technical University
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-00599C.svg?logo=c-in-hexagon&logoColor=white">
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
   <img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB-0072B2.svg?logo=matlab">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26.svg?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-rebeccapurple.svg?logo=css&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-293137.svg?logo=gnu-bash&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FFD500.svg?logo=linux&logoColor=000000">
