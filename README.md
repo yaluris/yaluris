@@ -7,9 +7,6 @@
 I’m an Electrical and Computer Engineering student at the Technical University of Crete, with my coursework completed and currently focused on my thesis. I’m passionate about software engineering and actively seeking opportunities to apply and grow my skills in this field.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yaluris/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
-  </a>
   <a href="mailto:yorgos.yaluris@proton.me">
     <img src="https://img.shields.io/static/v1?message=Proton%20Mail&logo=protonmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" alt="protonmail logo"  />
   </a>
@@ -24,7 +21,6 @@ I’m an Electrical and Computer Engineering student at the Technical University
   <img alt="MATLAB" src="https://custom-icon-badges.demolab.com/badge/MATLAB-0072B2.svg?logo=matlab">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-rebeccapurple.svg?logo=css&logoColor=white">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-293137.svg?logo=gnu-bash&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FFD500.svg?logo=linux&logoColor=000000">
